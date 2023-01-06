@@ -1,0 +1,23 @@
+{
+  "name": "js01-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darjapo/Discount-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darjapo/Discount-finder/issues"
+  },
+  "homepage": "https://github.com/darjapo/Discount-finder#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
